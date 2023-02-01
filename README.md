@@ -17,9 +17,9 @@
 
 <h3 style='margin-bottom: 5px'>Отзывы о работе со мной</h3>
 
-[Компания Yota](https://www.it-agency.ru/academy/feedback-yota/)</br>
-[Отзыв команды «Чистовье»](https://www.it-agency.ru/academy/chistove-seo-review/)</br>
-[Aitarget One](https://vc.ru/it-agency/463100-kak-servis-aitarget-one-sohranil-potok-zayavok-v-krizis-s-pomoshchyu-kontenta-i-seo)</br>
+[Компания Yota](https://www.it-agency.ru/academy/feedback-yota/)    
+[Отзыв команды «Чистовье»](https://www.it-agency.ru/academy/chistove-seo-review/)   
+[Aitarget One](https://vc.ru/it-agency/463100-kak-servis-aitarget-one-sohranil-potok-zayavok-v-krizis-s-pomoshchyu-kontenta-i-seo)  
 [Отзыв компании Aristos](https://www.it-agency.ru/academy/aristos-review-seo/)</br>
 <h3>Кейсы</h3>
 
