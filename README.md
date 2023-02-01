@@ -7,7 +7,8 @@
 Ещё я веду [блог на медиум о прочитанных книгах](https://medium.com/@vasilew-denis "ссылка на блог")
 
 <h3 style='margin-bottom: 5px'>Отзывы о работе со мной</h3>
-<a rel='https://www.it-agency.ru/academy/feedback-yota/'>Компания Yota</a></br>
-<a rel='https://www.it-agency.ru/academy/chistove-seo-review/'>Отзыв команды «Чистовье»</a></br>
-<a rel='https://www.it-agency.ru/academy/aristos-review-seo/'>Отзыв компании Aristos</a></br>
-<a rel='https://vc.ru/it-agency/463100-kak-servis-aitarget-one-sohranil-potok-zayavok-v-krizis-s-pomoshchyu-kontenta-i-seo'>Aitarget One</a></br>
+
+[Компания Yota](https://www.it-agency.ru/academy/feedback-yota/)
+[Отзыв команды «Чистовье»](https://www.it-agency.ru/academy/chistove-seo-review/)
+[Aitarget One](https://vc.ru/it-agency/463100-kak-servis-aitarget-one-sohranil-potok-zayavok-v-krizis-s-pomoshchyu-kontenta-i-seo)
+[Отзыв компании Aristos](https://www.it-agency.ru/academy/aristos-review-seo/)
