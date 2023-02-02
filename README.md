@@ -11,7 +11,7 @@
 — SQL (Clickhouse, Tabix);</br>
 — визуализация Redash, Google Data Studio, Tableau;</br>
 — системы аналитики Яндекс.Метрика, Google Analytics;</br>
-— прочее: screaming frog, rush analytics, figma (могу сделать прототип, откомментировать), miro, трелло, worksection, notion, яндекс.вебмастер, google search console, все программы google (особенно гугл таблицы с учётом ВПР и комплексных функций).
+— прочее: screaming frog, rush analytics, figma (могу сделать прототип, откомментировать), miro, трелло, worksection, notion, яндекс.вебмастер, google search console, все программы google (особенно гугл таблицы, ВПР, сводные таблицы, функции).
 
 :information_desk_person: Актуальное резюме: [ссылка](https://vladimir.hh.ru/resume/eb250e12ff0b7039c10039ed1f4c5332304649)
 
@@ -23,6 +23,6 @@
 [Отзыв компании Aristos](https://www.it-agency.ru/academy/aristos-review-seo/)</br>
 <h3>Кейсы</h3>
 
-[Кейс № 1](https://github.com/vasilew/vasilew/blob/main/cases.md#%D0%BA%D0%B5%D0%B9%D1%81-1)
-[Кейс № 2](https://github.com/vasilew/vasilew/blob/main/cases.md#%D0%BA%D0%B5%D0%B9%D1%81-2)
-[Кейс № 3](https://github.com/vasilew/vasilew/blob/main/cases.md#%D0%BA%D0%B5%D0%B9%D1%81-3)
+[Кейс № 1](https://github.com/vasilew/vasilew/blob/main/cases.md#%D0%BA%D0%B5%D0%B9%D1%81-1)</br>
+[Кейс № 2](https://github.com/vasilew/vasilew/blob/main/cases.md#%D0%BA%D0%B5%D0%B9%D1%81-2)</br>
+[Кейс № 3](https://github.com/vasilew/vasilew/blob/main/cases.md#%D0%BA%D0%B5%D0%B9%D1%81-3)</br>
