@@ -15,17 +15,13 @@
 
 :information_desk_person: Актуальное резюме: [ссылка](https://vladimir.hh.ru/resume/eb250e12ff0b7039c10039ed1f4c5332304649)
 
-<h3 style='margin-bottom: 5px'>Отзывы о работе со мной</h3>
+<h3 style='margin-bottom: 5px'>Отзывы о работе со мной и кейсы</h3>
 
 [Компания Yota](https://www.it-agency.ru/academy/feedback-yota/)    
 [Отзыв команды «Чистовье»](https://www.it-agency.ru/academy/chistove-seo-review/)   
 [Aitarget One](https://vc.ru/it-agency/463100-kak-servis-aitarget-one-sohranil-potok-zayavok-v-krizis-s-pomoshchyu-kontenta-i-seo)  
 [Отзыв компании Aristos](https://www.it-agency.ru/academy/aristos-review-seo/)</br>
-<h3>Кейсы</h3>
-
-[Кейс № 1](https://github.com/vasilew/vasilew/blob/main/cases.md#%D0%BA%D0%B5%D0%B9%D1%81-1)</br>
-[Кейс № 2](https://github.com/vasilew/vasilew/blob/main/cases.md#%D0%BA%D0%B5%D0%B9%D1%81-2)</br>
-[Кейс № 3](https://github.com/vasilew/vasilew/blob/main/cases.md#%D0%BA%D0%B5%D0%B9%D1%81-3)</br>
+:point_right: [Кейсы](https://github.com/vasilew/vasilew/blob/main/cases.md#%D0%BA%D0%B5%D0%B9%D1%81-1)
 
 <h3>Последние пройденные курсы</h3>
 
