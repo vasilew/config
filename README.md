@@ -26,3 +26,13 @@
 [Кейс № 1](https://github.com/vasilew/vasilew/blob/main/cases.md#%D0%BA%D0%B5%D0%B9%D1%81-1)</br>
 [Кейс № 2](https://github.com/vasilew/vasilew/blob/main/cases.md#%D0%BA%D0%B5%D0%B9%D1%81-2)</br>
 [Кейс № 3](https://github.com/vasilew/vasilew/blob/main/cases.md#%D0%BA%D0%B5%D0%B9%D1%81-3)</br>
+
+<h3>Последние пройденные курсы</h3>
+
+![Курс Python](https://py4you.com/static/certificates/Python%20for%20SEO%20%7C%20Sep%202018/denis-vasilev.jpg)
+
+![Курс Математическая статистика](https://stepik.org/certificate/1a739e616ae23cccabda12a47eb4a30717a55d2e.png)
+
+![Курс SQL](https://stepik.org/certificate/b3cc18f48ea342e47db4533c5e26053357e74509.png)
+
+
