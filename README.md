@@ -24,7 +24,5 @@
 <h3>Кейсы</h3>
 
 [Кейс № 1](https://github.com/vasilew/vasilew/blob/main/cases.md#%D0%BA%D0%B5%D0%B9%D1%81-1)
-
-
-
-
+[Кейс № 2](https://github.com/vasilew/vasilew/blob/main/cases.md#%D0%BA%D0%B5%D0%B9%D1%81-2)
+[Кейс № 3](https://github.com/vasilew/vasilew/blob/main/cases.md#%D0%BA%D0%B5%D0%B9%D1%81-3)
