@@ -25,6 +25,8 @@
 
 <h3>Последние пройденные курсы</h3>
 
+![Курс Аналитик данных](certificate.jpg)
+
 ![Курс Python](https://py4you.com/static/certificates/Python%20for%20SEO%20%7C%20Sep%202018/denis-vasilev.jpg)
 
 ![Курс Математическая статистика](https://stepik.org/certificate/1a739e616ae23cccabda12a47eb4a30717a55d2e.png)
