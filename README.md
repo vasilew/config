@@ -13,7 +13,7 @@
 — системы аналитики Яндекс.Метрика, Google Analytics;</br>
 — прочее: screaming frog, rush analytics, figma (могу сделать прототип, откомментировать), miro, трелло, worksection, notion, яндекс.вебмастер, google search console, все программы google (особенно гугл таблицы, ВПР, сводные таблицы, функции).
 
-:information_desk_person: Актуальное резюме: [ссылка](https://vladimir.hh.ru/resume/eb250e12ff0b7039c10039ed1f4c5332304649)
+:information_desk_person: Актуальное резюме: [ссылка](https://drive.google.com/file/d/1SrteCyKL0BgwyYDJ0LR0oPi_CstPsh4w/view?usp=sharing)
 
 <h3 style='margin-bottom: 5px'>Отзывы о работе со мной и кейсы</h3>
 
